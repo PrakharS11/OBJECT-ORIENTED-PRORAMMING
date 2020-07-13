@@ -1,3 +1,7 @@
+/* Booking Management System
+    -by Prakhar */
+
+
 #include<conio.h>
 #include<string.h>
 #include<iostream>
